@@ -189,6 +189,7 @@ and created first hello world app.
 </pre>
 
 # Experiment 3
+<pre>
 import 'package:flutter/material.dart';
 void main() {
 runApp(const MyApp());
@@ -350,8 +351,10 @@ label: Text('Download'))
 );
 }
 }
+</pre>
 
 # Experiment 
+<pre>
 class MyHomePage extends StatefulWidget {
 const MyHomePage({super.key, required this.title});
 final String title;
@@ -409,6 +412,7 @@ offering vocational education, or a secondary school.",style: TextStyle(fontWeig
 );
 }
 }
+</pre>
 
 #  To connect flutter UI with firebase database.
 
